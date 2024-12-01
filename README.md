@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aymeric a 25y old junior dev
+- 👋 Hi, I’m Aymeric a 27y old dev
 - 👀 I’m working full time as a ReactJs/Ts dev !
 - 📫 How to reach me : demange.aymeric@hotmail.com
 
